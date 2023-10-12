@@ -6,7 +6,7 @@ To run Linux commands.
 
 COMMAND1:
 
-Ls – Displays information about files in the current directory.
+ls – Displays information about files in the current directory.
 
 
 OUTPUT1:
